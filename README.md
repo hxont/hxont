@@ -14,7 +14,7 @@ struct HoonT {
 }
 
 struct TechStack {
-  var languages: [String] = ["JavaScript"]
+  var languages: [String] = ["JavaScript", "python"]
   var frameworks: [String] = ["React", "ReactNative"]
 }
 ```
