@@ -19,10 +19,9 @@ struct TechStack {
   var frameworks: [String] = ["React", "ReactNative"]
 }
 ```
-
-<div align="center">
   
 ## Cards
+<div align="center">
   <a href="https://solved.ac/profile/queenly9"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=queenly9"/></a>
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/hxont"/>
