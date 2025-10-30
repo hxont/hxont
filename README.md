@@ -1,8 +1,7 @@
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/f1274d86-e982-49b2-ad2e-e57cf9537b1b" alt="마이메로" />
   <br><br>
-  훈티 깃헙에 오신 걸 환영합니다 𓈒𓏸 𓂂𓈒 💖 𓂂 𓈒𓏸﻿ 
+  환영합니다 𓈒𓏸 𓂂𓈒  𓂂 𓈒𓏸﻿ 
   
   <div align="left">
     
